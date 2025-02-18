@@ -26,3 +26,32 @@ C:\Users\15715\Documents\Dot Net Core\MVCCourse\MVCCourse\obj\Debug\net8.0\refin
 C:\Users\15715\Documents\Dot Net Core\MVCCourse\MVCCourse\obj\Debug\net8.0\MVCCourse.pdb
 C:\Users\15715\Documents\Dot Net Core\MVCCourse\MVCCourse\obj\Debug\net8.0\MVCCourse.genruntimeconfig.cache
 C:\Users\15715\Documents\Dot Net Core\MVCCourse\MVCCourse\obj\Debug\net8.0\ref\MVCCourse.dll
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\bin\Debug\net8.0\appsettings.json
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\bin\Debug\net8.0\MVCCourse.staticwebassets.runtime.json
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\bin\Debug\net8.0\MVCCourse.exe
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\bin\Debug\net8.0\MVCCourse.deps.json
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\bin\Debug\net8.0\MVCCourse.runtimeconfig.json
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\bin\Debug\net8.0\MVCCourse.dll
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\bin\Debug\net8.0\MVCCourse.pdb
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\obj\Debug\net8.0\MVCCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\obj\Debug\net8.0\MVCCourse.AssemblyInfoInputs.cache
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\obj\Debug\net8.0\MVCCourse.AssemblyInfo.cs
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\obj\Debug\net8.0\MVCCourse.csproj.CoreCompileInputs.cache
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\obj\Debug\net8.0\MVCCourse.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\obj\Debug\net8.0\MVCCourse.RazorAssemblyInfo.cache
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\obj\Debug\net8.0\MVCCourse.RazorAssemblyInfo.cs
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\obj\Debug\net8.0\MVCCourse.sourcelink.json
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\obj\Debug\net8.0\staticwebassets\msbuild.MVCCourse.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\obj\Debug\net8.0\staticwebassets\msbuild.build.MVCCourse.props
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVCCourse.props
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVCCourse.props
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\obj\Debug\net8.0\scopedcss\bundle\MVCCourse.styles.css
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\obj\Debug\net8.0\MVCCourse.dll
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\obj\Debug\net8.0\refint\MVCCourse.dll
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\obj\Debug\net8.0\MVCCourse.pdb
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\obj\Debug\net8.0\MVCCourse.genruntimeconfig.cache
+C:\Users\15715\Documents\Dot Net Core -Coding\MVCCourse\MVCCourse\obj\Debug\net8.0\ref\MVCCourse.dll

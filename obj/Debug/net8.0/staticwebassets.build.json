@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tMsqN5TP9XY1/nkeEpLRtGeC3mpuh26VKf1zQGxwG2E=",
+  "Hash": "k37VUXM86Wn/RBgAZ2rDjaZL5C1f0jJAMqG2h1scMtU=",
   "Source": "MVCCourse",
   "BasePath": "_content/MVCCourse",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MVCCourse\\wwwroot",
       "Source": "MVCCourse",
-      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\",
       "BasePath": "_content/MVCCourse",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
       "SourceId": "MVCCourse",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\",
       "BasePath": "_content/MVCCourse",
       "RelativePath": "lib/bootstrap/css/bootstrap.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
       "SourceId": "MVCCourse",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\",
       "BasePath": "_content/MVCCourse",
       "RelativePath": "lib/bootstrap/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "MVCCourse",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\",
       "BasePath": "_content/MVCCourse",
       "RelativePath": "lib/bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
       "SourceId": "MVCCourse",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\",
       "BasePath": "_content/MVCCourse",
       "RelativePath": "lib/bootstrap/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
       "SourceId": "MVCCourse",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\",
       "BasePath": "_content/MVCCourse",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
       "SourceId": "MVCCourse",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\",
       "BasePath": "_content/MVCCourse",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
       "SourceId": "MVCCourse",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\",
       "BasePath": "_content/MVCCourse",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "SourceId": "MVCCourse",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\",
       "BasePath": "_content/MVCCourse",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
       "SourceId": "MVCCourse",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\",
       "BasePath": "_content/MVCCourse",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
       "SourceId": "MVCCourse",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\",
       "BasePath": "_content/MVCCourse",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
       "SourceId": "MVCCourse",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\",
       "BasePath": "_content/MVCCourse",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "MVCCourse",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\",
       "BasePath": "_content/MVCCourse",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
       "SourceId": "MVCCourse",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\",
       "BasePath": "_content/MVCCourse",
       "RelativePath": "lib/bootstrap/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
       "SourceId": "MVCCourse",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\",
       "BasePath": "_content/MVCCourse",
       "RelativePath": "lib/bootstrap/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "MVCCourse",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\",
       "BasePath": "_content/MVCCourse",
       "RelativePath": "lib/bootstrap/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "MVCCourse",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\",
       "BasePath": "_content/MVCCourse",
       "RelativePath": "lib/bootstrap/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
       "SourceId": "MVCCourse",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\",
       "BasePath": "_content/MVCCourse",
       "RelativePath": "lib/bootstrap/js/bootstrap.js",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
       "SourceId": "MVCCourse",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\",
       "BasePath": "_content/MVCCourse",
       "RelativePath": "lib/bootstrap/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "MVCCourse",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\",
       "BasePath": "_content/MVCCourse",
       "RelativePath": "lib/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
       "SourceId": "MVCCourse",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\wwwroot\\",
       "BasePath": "_content/MVCCourse",
       "RelativePath": "lib/bootstrap/js/bootstrap.min.js.map",
       "AssetKind": "All",

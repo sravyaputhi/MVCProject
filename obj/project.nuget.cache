@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AQbmxJttWbQ=",
+  "dgSpecHash": "AkZ7HKmrGkc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\MVCCourse.csproj",
+  "projectFilePath": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\MVCCourse.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\15715\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512"
   ],

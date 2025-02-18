@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\MVCCourse.csproj": {}
+    "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\MVCCourse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\MVCCourse.csproj": {
+    "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\MVCCourse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\MVCCourse.csproj",
+        "projectUniqueName": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\MVCCourse.csproj",
         "projectName": "MVCCourse",
-        "projectPath": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\MVCCourse.csproj",
+        "projectPath": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\MVCCourse.csproj",
         "packagesPath": "C:\\Users\\15715\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\15715\\Documents\\Dot Net Core\\MVCCourse\\MVCCourse\\obj\\",
+        "outputPath": "C:\\Users\\15715\\Documents\\Dot Net Core -Coding\\MVCCourse\\MVCCourse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\15715\\AppData\\Roaming\\NuGet\\NuGet.Config",
