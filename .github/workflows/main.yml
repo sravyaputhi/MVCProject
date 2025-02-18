@@ -19,7 +19,7 @@ jobs:
         uses: NuGet/setup-nuget@v2.0.0
 
       - name: Restore NuGet Packages
-        run: nuget restore MVCProject.sln
+        run: nuget restore MVCProject.csproj
 
       - name: Build the Solution
-        run: msbuild MVCProject.sln
+        run: msbuild MVCProject.csproj
